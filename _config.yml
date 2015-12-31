@@ -1,0 +1,28 @@
+name: anexperi-mentalblog
+favicon: null
+layout_spectrum: 0.558305059093982
+typography_spectrum: 0.9237636548932642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8728766778949648
+  lightness: 0.09722634381614625
+  saturation: 0.6301515179220587
+  rhythmicContrast: 0.6157389145810157
+purpose: []
